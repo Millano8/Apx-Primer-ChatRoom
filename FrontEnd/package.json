@@ -1,0 +1,22 @@
+{
+  "name": "28.realtime-database-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel serve ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@vaadin/router": "^1.7.5",
+    "firebase": "^8.7.1",
+    "lodash": "^4.17.21"
+  }
+}
